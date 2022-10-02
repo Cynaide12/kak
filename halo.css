@@ -1,0 +1,673 @@
+
+.body{
+font-family: "GT Walsheim Pro", sans-serif;
+width: 100%;
+height: 100%;
+color: #07514e;
+position: relative;
+right: 8px;
+background: #fafafa;
+overflow-x: hidden;
+}
+#fon{
+  background-image: url(https://kartinkin.net/uploads/posts/2021-07/1627183081_17-kartinkin-com-p-pikselnii-fon-gradient-krasivo-18.png );
+background-size: 100% 100%;
+width: 1343px;
+height: 727px;
+margin: 0px;
+position: relative;
+bottom: 50px
+}
+.logo{
+  width: 100%;
+  height: 50px;
+  color: rgb(55, 124, 101);
+  position: fixed;
+  margin: 12px 0px 12px 0px;
+}
+.why{
+  font-size: 17px;
+  width: 10%;
+  height: 50%;
+  text-align: center;
+  position: relative;
+  top: 10px;
+  left:125px;
+  display:inline-block;
+  margin: -25px;
+}
+.logoimg{
+  text-align: center;
+  width: 10%;
+  height: 100%;
+  position: relative;
+  left: 44.5%;
+  bottom: 24px
+}
+.sign{ 
+  font-size: 17px;
+  width: 10%;
+  height: 50%;
+  text-align: center;
+  position: relative;
+  bottom: 33px;
+  left: 950px;
+  margin: -25px;
+}
+.demo{ 
+  font-size: 17px;
+  width: 10%;
+  height: 70%;
+  text-align: center;
+  position: relative;
+  bottom: 40px;
+  left: 1080px;
+  margin: -25px;
+  border: 0px;
+  background-color: #07514e;
+  color: white;
+  font-size: 12px;
+  border-radius: 10px
+}
+div > a{
+  text-decoration: none;
+  color: #07514e;
+}
+.boxtext{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: #07514e;
+  height: 500px;
+  position: relative;
+  top: 50px;
+  right: 10px;
+}
+.header6{
+  font-size: 50px;
+  position:relative;
+  top:50px;
+  letter-spacing: -2px
+}
+.header5{
+  font-size: 18px;
+  line-height: 27px;
+  position:relative;
+  top: 50px;
+  letter-spacing: normal;
+}
+.header7{
+  font-size: 20px;
+  position:relative;
+  top: 100px;
+  background-color: #07514e;
+  width: 250px;
+  height:50px;
+  border: 3px solid #000;
+  border-radius: 10px;
+  line-height:25px;
+}
+#button{
+  position: relative;
+  color: #ffffff;
+  border: 0; 
+  cursor: pointer; 
+  font-size: 10px;
+  line-height: 11px;
+  letter-spacing: 2px;
+}
+.img2{
+  position: relative;
+  left: 50px;
+  bottom: 20px;
+  width: 90%;
+  height: 100%
+}
+.img-block{
+  position:relative;
+  width: 80%;
+  height: 80px;
+  left: 110px;
+  bottom: 100px
+}
+.img-block-0{
+  width: 10%;
+  height: 100%;
+  position: relative;
+  display: inline-block;
+}
+.img-block-1{
+  width: 13%;
+  height: 60%;
+  display: inline-block;
+  position:relative;
+  left: 20px;
+  bottom: 10px
+}
+.img-block-2{
+  position: relative;
+  display: inline-block;
+  width: 15%;
+  height: 50%;
+  left: 30px;
+  bottom: 10px
+}
+.img-block-3{
+  position: relative;
+  width: 15%;
+  height: 50%;
+  display: inline-block;
+  left: 40px;
+  bottom: 10px
+}
+.img-block-4{
+  position: relative;
+  width: 10%;
+  height: 80%;
+  display: inline-block;
+  left: 50px
+}
+.img-block-5{
+  position: relative;
+  width: 12%;
+  height: 35%;
+  display: inline-block;
+  left: 60px;
+  bottom: 15px;
+}
+.img-block-6{
+  position: relative;
+  width: 6%;
+  height: 50%;
+  display: inline-block;
+  left: 75px;
+  bottom: 12px
+}
+.img-block-7{
+  display: inline-block;
+  width: 6%;
+  height: 70%;
+  position: relative;
+  left: 90px;
+  bottom: 5px
+}
+.textblock-1{
+  position: relative;
+  width: 640px;
+  height: 180px;
+  text-align: center;
+  font-size: 43.2px;
+  line-height: 60px;
+  left: 25%;
+  top: 17px;
+  color: #07514e;
+  letter-spacing: -1.728px;
+  margin-bottom: 77px
+  
+}
+.textblock-1 > p{
+  position: relative;
+}
+.cardblock{
+  width: 1140px;
+  height: 543px;
+  display:flex;
+  position:relative;
+  left: 62px;
+  top: 50px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: space-around;
+
+}
+.card0{
+  width: 356px;
+  height: 240px;
+  border-radius: 15px;
+  padding-top: 10px;
+  margin-left: 20px;
+  display:flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: space-around;
+  border: 1px solid #f3f3f3;
+}
+#cardpointer:hover{
+background: white;
+transition: all 0.5s ease;
+}
+.imgcard{
+  width: 314px;
+  height: 60px;
+  border-radius: 15px;
+  background-color: #f3f3f3;
+  margin-top: 8;
+  margin-bottom: 1px;
+  text-align: center;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.textblock{
+  width: 294px;
+  height: 138px;
+  border-radius: 15px;
+  font-size: 18px;
+  line-height: 23.4px;
+  text-align: left;
+  letter-spacing: normal;
+}
+.textcard{
+  width: 294px;
+  height: 28px;
+  margin-bottom: 38px;
+  text-align: left;
+  vertical-align: middle;
+  color: #151515;
+
+}
+.textcard1{
+  width: 294px;
+  height: 18px;
+  position: relative;
+  bottom: 100px;
+  margin-top: -1px;
+  color: #8e8e8e;
+  padding-left: 20px;
+}
+.textcard2{
+  width: 294px;
+  height: 18px;
+  position: relative;
+  bottom: 50px;
+  margin-top: -2px;
+  color: #8e8e8e;
+  padding-left: 20px;
+}
+.textcard ul{
+  margin: 0px;
+  padding-left: 20px;
+  color: #07514e;
+}
+.textcard span{
+  color: black;
+}
+#visota{
+  height: 51px;
+}
+.text-block-2{
+  width: 520px;
+  height: 22px;
+  text-align:center;
+  margin: 0;
+  padding:0;
+  font-size: 16px;
+  letter-spacing:normal;
+  line-height: 22.4px;
+  margin-top: 90px;
+  margin-left: 29.5%
+}
+.button-1{
+  margin-top:20px;
+  border-radius: 8px;
+  background: white;
+  color: #10a6a0;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  width: 196px;
+  height: 54px;
+  position: relative;
+  left: 40%;
+  border: 1px solid #ffffff;
+  letter-spacing: 1px;
+  font-weight: 800;
+  cursor: pointer;
+  font-family: "GT Walsheim Pro", sans-serif;
+  border: 1px solid #8e8e8e;
+}
+.container-10{
+  width: 1110px;
+  height: 640px;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  margin:auto;
+  margin-top: 150px;
+  background-color: #ffffff;
+  border-radius: 0px 24px 24px 0px;
+
+}
+.container-list-10{
+  width: 556px;
+  height: 640px;
+  background-image: url(https://top-fon.com/uploads/posts/2021-07/1627046761_20-p-fon-sero-rozovii-gradient-20.jpg);
+  border-radius: 24px 0px 0px 24px;
+}
+.container-list-10 img{
+  position: relative;
+  bottom: 80px;
+  right: 30px;
+}
+.textbox-1{
+  width: 122px;
+  height: 31px;
+  color: #febbbc;
+  background: #07514e;
+  border-radius: 15px;
+  font-weight: 900;
+  font-size: 12px;
+  line-height: 13.74px;
+  letter-spacing: 1px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.textbox-2{
+  width:253px;
+  height: 120px;
+  font-size: 43px;
+  line-height: 60px;
+  letter-spacing:-1.728px;
+  text-align: left;
+}
+.container-list-11{
+  width: 556px;
+  height: 489px;
+  border-radius: 0px 24px 24px 0px;
+  margin-top: 75.5px;
+  margin-left: 70px
+}
+.textbox-3{
+  width:380px;
+  height: 64px;
+  font-size: 18px;
+  line-height: 21.6px;
+  text-align:left;
+  letter-spacing: normal;
+  text-indent: 0px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.container-box1{
+  width: 400px;
+  height: 100px;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: flex-start;
+}
+.text-box4{
+  width: 220px;
+  height: 20px;
+  font-size: 14px;
+  text-align:left;
+  letter-spacing: -0.14px;
+  line-height: 19.6px;
+  margin-top: 10px;
+}
+.text-box4 span{
+  color:#8e8e8e;
+  margin-left: 30px;
+}
+.text-box4 img{
+  margin: 0px -16px 0px 0px
+}
+#button-1{
+  margin-top:20px;
+  border-radius: 8px;
+  background: white;
+  color: #10a6a0;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  width: 196px;
+  height: 54px;
+  position: relative;
+  top: 20px;
+  border: 1px solid #ffffff;
+  letter-spacing: 1px;
+  font-weight: 800;
+  cursor: pointer;
+  font-family: "GT Walsheim Pro", sans-serif;
+  padding: 15px 40px 15px 40px;
+  border: 1px solid #8e8e8e;
+}
+.inspector1{
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 200px 0px 0px -39px;
+}
+.container-11{
+  width: 1110px;
+  height: 718px;
+  border-radius: 24px 24px 24px 24px;
+  background-color: #ffffff;
+  margin: 60px;
+}
+.container-img-11{
+  width: 891px;
+  height:686px;
+  position: relative;
+  left: 520px;
+  bottom: 780px;
+}
+
+.container-text-11{
+  width:555px;
+  height: 718px;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: start; 
+}
+.button-3{
+  margin-top:60px;
+  margin-left: 60px;
+  margin-bottom: 30px;
+  border-radius: 15px;
+  background: #febbbc;
+  color: #07514e;
+  font-size: 12px;
+  line-height: 13.74px;
+  text-align: center;
+  width: 96px;
+  height: 31px;
+  letter-spacing: 1px;
+  font-weight: 800;
+  cursor: pointer;
+  font-family: "GT Walsheim Pro", sans-serif;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-text-11-1{
+  width: 435px;
+  height: 180px;
+  font-size:43.2px;
+  line-height: 60px;
+  text-align: left;
+  letter-spacing: 1.728px;
+  margin-left: 60px;
+  margin-top: 40px;
+}
+.container-text-11-1 pre{
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+}
+.container-text-11-2{
+  width: 380px;
+  height: 64px;
+  margin-bottom: 40px;;
+  margin-left: 60px;
+  font-size: 18px;
+  line-height: 21.6px;
+  text-align: left;
+  letter-spacing: normal;
+}
+.container-text-11-3{
+  width:340px;
+  height: 19px;
+  font-size: 14px;
+  color:#8e8e8e;
+  margin-left: 60px;
+  display:flex;
+  align-items: center;
+  margin-top: 7px;
+  line-height: 27px;
+}
+.container-text-11-3 img{
+  margin-right: 16px;
+  width: 6px;
+  height: 6px;
+}
+.container-12{
+    width: 940px;
+    height: 246px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 159px;
+}
+.container-text-12-1{
+    line-height: 60px;
+    letter-spacing: -1.728px;
+    font-size: 43.2px;
+    width: 197px;
+    height: 60px;
+}
+.container-text-12-2{
+  height:67px;
+  font-size: 16px;
+  line-height: 22.4px;
+  letter-spacing: normal;
+  color: #8e8e8e;
+  background: #fafafa;
+  width:940px;;
+  align-content:space-between;
+}
+.button-4{
+  width: 131px;
+  height: 31px;
+  font-size: 10px;
+  line-height: 11px;
+  letter-spacing: 1px;
+  background: #07514e;
+  color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-weight: 700
+}
+.button-4 a{
+  color: #ffffff;
+}
+.container-13{
+  width: 940px;
+  height: auto;
+  display:flex;
+  flex-flow: column wrap;   
+  align-items: center;
+  align-content: space-around;
+}
+.container-13-text-1{
+  font-size:43.2px;
+  line-height: 60px;
+  letter-spacing:-1.728px;
+  width: 410px;
+  height: 120px;
+  text-align: center;
+}
+.buttonbook{
+  width:192px;
+  height: 42px;
+  background: #07514e;
+  color: #fafafa;
+  font-size:10px;
+  line-height: 11px;
+  letter-spacing: 1px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  cursor: pointer;
+  font-weight: 700;
+}
+#buttonbook:hover{
+  background-color:#10a6a0;
+  transition: 0.5s;
+}
+.container-14{
+  width:1110px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.container-14-img-1{
+  width: fit-content;
+  max-width:106px;
+  height: auto;
+}
+.inspector2{
+  width: 100%;
+  height: auto;
+  margin-right: 60px;
+}
+.container-15{
+  height: 16px;
+  width: 1200px;
+  display: flex;
+  flex-direction: row;
+}
+.container-text-15-1{
+  width: fit-content;
+  height: auto;
+  font-size: 12px;
+  line-height: 16.8px;
+  text-align: center;
+  letter-spacing: normal;
+  margin-left: 20px;
+}
+.container-img-1{
+  width:365px;
+  height: 30px;
+}
+.container-img-1-1{
+  width: 170px;
+  height: 14px;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  color:#8e8e8e;
+  background:#ffffff;
+  margin-left: 61px;
+}
+.container-0{
+  width: 100px;
+  height: 20px;
+  background: rgb(209, 177, 177);
+  color: rgb(201, 255, 4);
+  font-size: 10px;
+  border: 1px solid rgb(41, 52, 197);
+  position: relative;
+  left: 500px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+#container-0:hover{
+  background-color:green;
+  transition: 0.5s
+}
